@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Publications markdown generator for lpaparusso
 # 
 # Takes a set of bibtex of publications and converts them for use with [lpaparusso.github.io](lpaparusso.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
 # 
